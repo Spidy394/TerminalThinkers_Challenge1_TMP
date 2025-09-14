@@ -2,8 +2,6 @@
 
 It is a Exploratory Data Analysis Challenge
 
-Teamname_Challenge1_TMP
-
 📊 The EDA Mission Briefing
 This repository contains our team's submission for The Manhattan Project's Exploratory Data Analysis (EDA) Group Challenge. Our mission was to analyze the provided dataset to uncover actionable insights for OmniMart Retailers, focusing on customer behavior, product performance, and operational efficiency.
 
@@ -41,4 +39,4 @@ For a more detailed breakdown, please refer to our full analysis in the Jupyter 
 - `README.md` (This file)
 - `retail_data.zip` (The raw dataset used for the challenge)
 - `analysis.ipynb` (The main Jupyter Notebook with all our code and analysis)
-- `presentation.md` (A comprehensive summary of our findings and strategic recommendations)
+- `presentation.pdf` (A comprehensive summary of our findings and strategic recommendations)
